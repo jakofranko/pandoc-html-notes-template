@@ -1,0 +1,17 @@
+body {
+	font: 16px/1.5rem Helvetica, Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	margin: 0 auto;
+	padding: 2rem;
+	width: 980px;
+}
+
+.toc {
+	margin: 2rem;
+	padding: 2rem;
+	border: groove 3px black;
+}
